@@ -75,7 +75,7 @@ display: grid; /* Usa grid para centralizar o ícone dentro do círculo */
 place-items: center; /* Centraliza o ícone tanto vertical quanto horizontalmente */
 text-decoration: none; /* Remove o sublinhado padrão dos links */
 color: rgb(245, 153, 153); /* Define a cor do ícone como cinza */
-border: 1.6px solid rgb(238, 161, 161); /* Adiciona uma borda de 1.6 pixels, sólida e cinza */
+border: 1.6px solid rgb(247, 205, 205); /* Adiciona uma borda de 1.6 pixels, sólida e cinza */
 font-size: 1.5rem; /* Define o tamanho do ícone */
 border-radius: 50%; /* Faz a borda ser um círculo perfeito */
 padding: 0.39rem; /* Adiciona um espaçamento interno (acolchoamento) ao redor do ícone */
@@ -87,7 +87,7 @@ color: #f79a9a; /* Muda a cor do ícone para um cinza mais escuro */
 background-color: rgb(236, 156, 156); /* Muda a cor de fundo do círculo para cinza */
 }
 footer {
-    background-color: #f8f2f2;
+    background-color: #fafafa;
     color: rgb(151, 149, 149);
     text-align: center;
     padding: 20px;
