@@ -10,10 +10,10 @@ body {
 }
 .foto {
 	flex: 1;
-	background-color: rgba(177, 75, 180, 0.63);
+	background-color: rgba(235, 164, 238, 0.63);
 	display: flex;
 	align-items: center;
-	justify-content: center
+	justify-content: center;
 }
 
 .foto img {
